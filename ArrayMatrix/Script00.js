@@ -39,9 +39,9 @@ console.log(ArrayTexto)
 ArrayTexto.pop();
 console.log(ArrayTexto);
 
-console.log("                ")
+console.log("                   ")
 console.log("Percorrer um Array:")
-console.log("                ")
+console.log("                   ")
 
 
 // Percorrer um Array - Laços de Repetição 
@@ -51,7 +51,7 @@ for(let i =0; i<ArrayNumeros.length; i++){
 }
 
 console.log("                ")
-console.log("     ForEach:     ")
+console.log("     ForEach:   ")
 console.log("                ")
 
 
@@ -60,9 +60,9 @@ ArrayTexto.forEach(elemento => {
     console.log(elemento)
 });
 
-console.log("                ")
+console.log("                  ")
 console.log("  Métodos úteis:  ")
-console.log("                ")
+console.log("                  ")
 
 // Métodos úteis em Arrays
 
@@ -73,7 +73,7 @@ console.log(ArrayNumeros.indexOf(10)); //-1
 
 // Splice (remover um elemento de uma posição)
 console.log("                ")
-console.log("     Splice:     ")
+console.log("     Splice:    ")
 console.log("                ")
 
 

@@ -2,7 +2,7 @@
 
 //Desafio 1
 console.log("                ")
-console.log("     Desafio 1  ")
+console.log("    Desafio 1   ")
 console.log("                ")
 
 const prompt = require("prompt-sync")();
@@ -39,4 +39,11 @@ while (continuar) {
             break;
     }
 }
+
+//Desafio 2
+console.log("                ")
+console.log("    Desafio 2   ")
+console.log("                ")
+
+
 
