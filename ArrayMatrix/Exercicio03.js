@@ -6,5 +6,6 @@ let JavaScript = ["JavaScript", "é", "uma", "linguagem", "poderosa"];
 // Adicionando a palavra "muito"
 JavaScript.splice(4, 1);
 JavaScript.push("muito");
+console.log(JavaScript);
 JavaScript.push("poderosa");
 console.log(JavaScript);
