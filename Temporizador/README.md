@@ -1,1 +1,0 @@
-O temporizador foi relativamente mais fácil por ter um código mais simples e a estilização não ser tão complexa, ele segue a mesma paleta de cor do Piano e toca um audiozinho ao fim da contagem dos minutos determinado pelo usuário.
