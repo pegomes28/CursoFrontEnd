@@ -2,7 +2,7 @@
   "vagas": [
     {
       "id": "1",
-      "nome": "Desenvolver FrontEnd Jr",
+      "nome": "Desenvolvedor FrontEnd Jr.",
       "foto": "foto1.jpg",
       "descricao": "Trabalhar com HTML, CSS e JS",
       "salario": 4000
@@ -22,12 +22,47 @@
       "salario": 10000
     },
     {
-      "id": "4",
-      "nome": "Engenherio nuvem",
-      "foto": "foto4.jpg",
-      "descricao": "Trabalhar com Cloud",
+      "id": 4,
+      "nome": "Engenheiro de Cloud",
+      "foto": "foto1.jpg",
+      "descricao": "Arquitetura de nuvens e serviços online",
       "salario": 8000
     }
   ],
-  "curriculos": []
+
+  "curriculos": [
+    {
+      "id": "1",
+      "nome": "Enrique Iglesias",
+      "cpf": "123.564.785-42",
+      "sobreMim": "Hablo Espanhol",
+      "experiencias": "Muitas!",
+      "formacoes": "Milhares!"
+    },
+    {
+      "id": "2",
+      "nome": "Bruna Hipólito",
+      "cpf": "457.324.643-12",
+      "sobreMim": "Adoro filmes de Ação",
+      "experiencias": "Boleira Profissional",
+      "formacoes": "UFRJ: Administração"
+    },
+    {
+      "id": "3",
+      "nome": "Rosalia Motomami",
+      "cpf": "431.543.234-54",
+      "sobreMim": "Motoqueira Fantasma",
+      "experiencias": "Dirigir Motos",
+      "formacoes": "UNIP: Mototermodinâmica"
+    },
+    {
+      "id": "4",
+      "nome": "Gabriel Picollo",
+      "cpf": "345.642.980-34",
+      "sobreMim": "Desenho desde os 5 anos de idade",
+      "experiencias": "Com lápis",
+      "formacoes": "Senac: Design de Interiores"
+    }
+  ]
+
 }

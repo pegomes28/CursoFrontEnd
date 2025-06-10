@@ -25,13 +25,7 @@ export class VagasComponent implements OnInit {
       (e) => { //Listar vaga por vaga dentro do vetor
         this.vagas= e.map(
           (vaga) => {
-            return new Vaga(
-              vaga.id,
-              vaga.nome,
-              vaga.foto,
-              vaga.descricao,
-              vaga.salario,
-            );
+            return Vaga.fromMap(vaga);
           }
         );
       }
