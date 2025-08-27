@@ -1,0 +1,17 @@
+/* estilização da aplicação principa */
+
+body{
+    font-family: Comic Sans MS;
+    background-color: aliceblue;
+    margin: 0;
+    padding: auto;
+}
+h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+div{
+    text-align: center;
+    margin-top: 20px;
+}
